@@ -110,8 +110,8 @@ caption, tbody, tfoot, thead, tr, th, td {
 	
 	h1{
 		font-weight: 300;
-		font-size: 20px;
-		color: #e6007e;
+		font-size: 30px;
+		color: #000;
 	}
 	
 	h2 {
@@ -265,11 +265,11 @@ caption, tbody, tfoot, thead, tr, th, td {
 		clear: both;
 		text-align: center;
 		background: none repeat scroll 0 0 #000000;
-		border-top: 3px solid #c3c3c3;
 		bottom: 0px;
 		display: block;
 		position: relative;
-		height: 68px;
+		height: 100px;
+		padding-top: 10px;
 		
 	}
 	
@@ -281,3 +281,14 @@ caption, tbody, tfoot, thead, tr, th, td {
 	footer a:focus, a:hover, a:link, a:visited, a:active{
 		color: #ffffff;
 	}
+
+
+		footer shortinfo
+		{
+			font-size: 14px;
+		}
+
+		footer tammylee
+		{
+			font-size: 14px;
+		}
